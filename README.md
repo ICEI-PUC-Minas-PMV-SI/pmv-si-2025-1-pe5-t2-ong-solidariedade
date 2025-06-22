@@ -49,7 +49,7 @@ Para garantir alta disponibilidade, escalabilidade e segurança, o sistema será
 
 No link abaixo você encontrará as documentações do Projeto
 
-** [Documentações do Projeto](/docs/README.md)
+** [Documentações do Projeto](/docs)
 
 
 ## Códigos do sistema de gerenciamento de alunos e cursos
