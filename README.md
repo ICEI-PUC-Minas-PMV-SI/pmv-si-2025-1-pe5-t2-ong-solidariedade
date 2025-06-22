@@ -1,4 +1,4 @@
-# Título do Projeto
+# Projeto de Infraestrutura - ONG Solidariedade
 
 `CURSO: Sistemas de Informação`
 
@@ -45,7 +45,18 @@ O sistema foi desenvolvido utilizando as seguintes linguagens de programação e
 
 Para garantir alta disponibilidade, escalabilidade e segurança, o sistema será **armazenado em nuvem utilizando os serviços da Amazon Web Services (AWS)**. Isso permitirá que a ONG tenha uma infraestrutura robusta e confiável para suas operações.
 
+## Documentações
 
+No link abaixo você encontrará as documentações do Projeto
+
+** [Documentações do Projeto](/docs/README.md)
+
+
+## Códigos do sistema de gerenciamento de alunos e cursos
+
+Abaixo estará o caminho para a pasta com a codificação do sistema
+
+** [Código Sistema Gerenciamento de alunos e curso](/system_code)
 
 ## Integrantes
 
